@@ -1,0 +1,142 @@
+{
+    "commits": [
+        {
+            "sha": "5d0897b7d8fa0f04f6eb7f2708235d1278cf4b71",
+            "author": {
+                "name": "pillamaripraharsha844-blip",
+                "email": "pillamaripraharsha844@gmail.com"
+            },
+            "date": "2026-08-08T11:18:49Z",
+            "message": "Developer 2 initial activity",
+            "statistics": {
+                "additions": 2,
+                "deletions": 0,
+                "total_changes": 2
+            },
+            "files": [
+                {
+                    "filename": "developer2.py",
+                    "status": "added",
+                    "additions": 2,
+                    "deletions": 0,
+                    "changes": 2
+                }
+            ]
+        },
+        {
+            "sha": "be667dc0bdf7a855ecc230d8bf0247df51437498",
+            "author": {
+                "name": "PraharshaIncepteolabs",
+                "email": "praharsha.p@incepteolabs.com"
+            },
+            "date": "2026-08-08T10:53:25Z",
+            "message": "Admin added project notes",
+            "statistics": {
+                "additions": 2,
+                "deletions": 0,
+                "total_changes": 2
+            },
+            "files": [
+                {
+                    "filename": "admin_notes.py",
+                    "status": "added",
+                    "additions": 2,
+                    "deletions": 0,
+                    "changes": 2
+                }
+            ]
+        },
+        {
+            "sha": "ea54f78e09c12ba52dcef076ade6892787caa538",
+            "author": {
+                "name": "Praharsha2005",
+                "email": "praharshapillamari844@gmail.com"
+            },
+            "date": "2026-08-08T10:45:38Z",
+            "message": "Developer 1 initial activity",
+            "statistics": {
+                "additions": 2,
+                "deletions": 0,
+                "total_changes": 2
+            },
+            "files": [
+                {
+                    "filename": "developer1.py",
+                    "status": "added",
+                    "additions": 2,
+                    "deletions": 0,
+                    "changes": 2
+                }
+            ]
+        },
+        {
+            "sha": "2198cb5cf768e1fb5334e93474e108dfa7ba9d37",
+            "author": {
+                "name": "PraharshaIncepteolabs",
+                "email": "praharsha.p@incepteolabs.com"
+            },
+            "date": "2026-08-08T10:12:21Z",
+            "message": "Initial Admin commit",
+            "statistics": {
+                "additions": 2,
+                "deletions": 0,
+                "total_changes": 2
+            },
+            "files": [
+                {
+                    "filename": "test.py",
+                    "status": "added",
+                    "additions": 2,
+                    "deletions": 0,
+                    "changes": 2
+                }
+            ]
+        },
+        {
+            "sha": "6b5e92e7f91d23d865daed9952cb18584f3655c1",
+            "author": {
+                "name": "PraharshaIncepteolabs",
+                "email": "praharsha.p@incepteolabs.com"
+            },
+            "date": "2026-08-08T07:25:51Z",
+            "message": "Initial commit",
+            "statistics": {
+                "additions": 1,
+                "deletions": 0,
+                "total_changes": 1
+            },
+            "files": [
+                {
+                    "filename": "README.md",
+                    "status": "added",
+                    "additions": 1,
+                    "deletions": 0,
+                    "changes": 1
+                }
+            ]
+        },
+        {
+            "sha": "c4b1a4ed5b5cc6493a3f1f2bc90bed8d07a72cc9",
+            "author": {
+                "name": "Praharsha2005",
+                "email": "praharshapillamari844@gmail.com"
+            },
+            "date": "2026-08-09T16:49:57Z",
+            "message": "Developer 1 added new update",
+            "statistics": {
+                "additions": 2,
+                "deletions": 0,
+                "total_changes": 2
+            },
+            "files": [
+                {
+                    "filename": "developer1_update.py",
+                    "status": "added",
+                    "additions": 2,
+                    "deletions": 0,
+                    "changes": 2
+                }
+            ]
+        }
+    ]
+}
