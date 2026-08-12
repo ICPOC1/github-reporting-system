@@ -1,0 +1,19 @@
+{
+    "repository": "PraharshaIncepteolabs/TEST",
+    "default_branch": "main",
+    "total": 2,
+    "branches": [
+        {
+            "name": "main",
+            "default": true,
+            "protected": true,
+            "commit_sha": "c4b1a4ed5b5cc6493a3f1f2bc90bed8d07a72cc9"
+        },
+        {
+            "name": "phase3-test-pr",
+            "default": false,
+            "protected": false,
+            "commit_sha": "04aad7f6b105614f02d95b437f81bb9b8eae234f"
+        }
+    ]
+}

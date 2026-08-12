@@ -1,0 +1,18 @@
+{
+    "repository": "PraharshaIncepteolabs/github-reporting-system",
+    "total": 1,
+    "collaborators": [
+        {
+            "login": "PraharshaIncepteolabs",
+            "id": 314216920,
+            "type": "User",
+            "role_name": "admin",
+            "admin": true,
+            "maintain": true,
+            "push": true,
+            "triage": true,
+            "pull": true,
+            "profile_url": "https://github.com/PraharshaIncepteolabs"
+        }
+    ]
+}

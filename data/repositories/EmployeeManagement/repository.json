@@ -1,0 +1,23 @@
+{
+    "id": 1326669664,
+    "name": "EmployeeManagement",
+    "full_name": "PraharshaIncepteolabs/EmployeeManagement",
+    "description": null,
+    "private": false,
+    "visibility": "public",
+    "default_branch": "main",
+    "html_url": "https://github.com/PraharshaIncepteolabs/EmployeeManagement",
+    "clone_url": "https://github.com/PraharshaIncepteolabs/EmployeeManagement.git",
+    "ssh_url": "git@github.com:PraharshaIncepteolabs/EmployeeManagement.git",
+    "language": "Python",
+    "created_at": "2026-08-07T12:51:24Z",
+    "updated_at": "2026-08-08T11:36:58Z",
+    "pushed_at": "2026-08-08T11:36:54Z",
+    "size": 1,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "archived": false,
+    "disabled": false
+}

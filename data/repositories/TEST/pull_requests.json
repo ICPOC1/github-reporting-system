@@ -1,0 +1,22 @@
+{
+    "repository": "PraharshaIncepteolabs/TEST",
+    "total": 1,
+    "pull_requests": [
+        {
+            "number": 2,
+            "title": "Phase 3 PR Test",
+            "state": "open",
+            "draft": false,
+            "merged": false,
+            "author": "PraharshaIncepteolabs",
+            "author_url": "https://github.com/PraharshaIncepteolabs",
+            "created_at": "2026-08-10T07:37:34Z",
+            "updated_at": "2026-08-10T07:37:34Z",
+            "closed_at": null,
+            "merged_at": null,
+            "url": "https://github.com/PraharshaIncepteolabs/TEST/pull/2",
+            "head_branch": "phase3-test-pr",
+            "base_branch": "main"
+        }
+    ]
+}

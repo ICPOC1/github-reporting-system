@@ -1,0 +1,42 @@
+{
+    "repository": "PraharshaIncepteolabs/EmployeeManagement",
+    "total": 3,
+    "collaborators": [
+        {
+            "login": "Praharsha2005",
+            "id": 193572072,
+            "type": "User",
+            "role_name": "write",
+            "admin": false,
+            "maintain": false,
+            "push": true,
+            "triage": true,
+            "pull": true,
+            "profile_url": "https://github.com/Praharsha2005"
+        },
+        {
+            "login": "PraharshaIncepteolabs",
+            "id": 314216920,
+            "type": "User",
+            "role_name": "admin",
+            "admin": true,
+            "maintain": true,
+            "push": true,
+            "triage": true,
+            "pull": true,
+            "profile_url": "https://github.com/PraharshaIncepteolabs"
+        },
+        {
+            "login": "pillamaripraharsha844-blip",
+            "id": 314271931,
+            "type": "User",
+            "role_name": "write",
+            "admin": false,
+            "maintain": false,
+            "push": true,
+            "triage": true,
+            "pull": true,
+            "profile_url": "https://github.com/pillamaripraharsha844-blip"
+        }
+    ]
+}

@@ -1,36 +1,13 @@
 {
     "commits": [
         {
-            "sha": "c4b1a4ed5b5cc6493a3f1f2bc90bed8d07a72cc9",
-            "author": {
-                "name": "Praharsha2005",
-                "email": "praharshapillamari844@gmail.com"
-            },
-            "date": "2026-08-09T16:49:57Z",
-            "message": "Developer 1 added new update",
-            "statistics": {
-                "additions": 2,
-                "deletions": 0,
-                "total_changes": 2
-            },
-            "files": [
-                {
-                    "filename": "developer1_update.py",
-                    "status": "added",
-                    "additions": 2,
-                    "deletions": 0,
-                    "changes": 2
-                }
-            ]
-        },
-        {
-            "sha": "5d0897b7d8fa0f04f6eb7f2708235d1278cf4b71",
+            "sha": "c88cbff0c38997664a51a9be41676eec9ce14846",
             "author": {
                 "name": "pillamaripraharsha844-blip",
                 "email": "pillamaripraharsha844@gmail.com"
             },
-            "date": "2026-08-08T11:18:49Z",
-            "message": "Developer 2 initial activity",
+            "date": "2026-08-08T11:36:29Z",
+            "message": "Developer 2 Employee Management activity",
             "statistics": {
                 "additions": 2,
                 "deletions": 0,
@@ -38,7 +15,7 @@
             },
             "files": [
                 {
-                    "filename": "developer2.py",
+                    "filename": "developer2_employee.py",
                     "status": "added",
                     "additions": 2,
                     "deletions": 0,
@@ -47,36 +24,13 @@
             ]
         },
         {
-            "sha": "be667dc0bdf7a855ecc230d8bf0247df51437498",
-            "author": {
-                "name": "PraharshaIncepteolabs",
-                "email": "praharsha.p@incepteolabs.com"
-            },
-            "date": "2026-08-08T10:53:25Z",
-            "message": "Admin added project notes",
-            "statistics": {
-                "additions": 2,
-                "deletions": 0,
-                "total_changes": 2
-            },
-            "files": [
-                {
-                    "filename": "admin_notes.py",
-                    "status": "added",
-                    "additions": 2,
-                    "deletions": 0,
-                    "changes": 2
-                }
-            ]
-        },
-        {
-            "sha": "ea54f78e09c12ba52dcef076ade6892787caa538",
+            "sha": "6e69f70a8301e5618d2185209092b7b1f16333c1",
             "author": {
                 "name": "Praharsha2005",
                 "email": "praharshapillamari844@gmail.com"
             },
-            "date": "2026-08-08T10:45:38Z",
-            "message": "Developer 1 initial activity",
+            "date": "2026-08-08T11:32:29Z",
+            "message": "Developer 1 Employee Management activity",
             "statistics": {
                 "additions": 2,
                 "deletions": 0,
@@ -84,7 +38,7 @@
             },
             "files": [
                 {
-                    "filename": "developer1.py",
+                    "filename": "developer1_employee.py",
                     "status": "added",
                     "additions": 2,
                     "deletions": 0,
@@ -93,13 +47,13 @@
             ]
         },
         {
-            "sha": "2198cb5cf768e1fb5334e93474e108dfa7ba9d37",
+            "sha": "307de13728540a6c25828b77f252d2882999219e",
             "author": {
                 "name": "PraharshaIncepteolabs",
                 "email": "praharsha.p@incepteolabs.com"
             },
-            "date": "2026-08-08T10:12:21Z",
-            "message": "Initial Admin commit",
+            "date": "2026-08-08T11:28:15Z",
+            "message": "Admin initial Employee Management activity",
             "statistics": {
                 "additions": 2,
                 "deletions": 0,
@@ -107,7 +61,7 @@
             },
             "files": [
                 {
-                    "filename": "test.py",
+                    "filename": "admin_employee.py",
                     "status": "added",
                     "additions": 2,
                     "deletions": 0,
@@ -116,12 +70,12 @@
             ]
         },
         {
-            "sha": "6b5e92e7f91d23d865daed9952cb18584f3655c1",
+            "sha": "465822812f5b83be46c7b53ac3dfef1dcccfa77b",
             "author": {
                 "name": "PraharshaIncepteolabs",
                 "email": "praharsha.p@incepteolabs.com"
             },
-            "date": "2026-08-08T07:25:51Z",
+            "date": "2026-08-07T12:51:24Z",
             "message": "Initial commit",
             "statistics": {
                 "additions": 1,

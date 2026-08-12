@@ -1,0 +1,13 @@
+{
+    "repository": "PraharshaIncepteolabs/github-reporting-system",
+    "default_branch": "main",
+    "total": 1,
+    "branches": [
+        {
+            "name": "main",
+            "default": true,
+            "protected": false,
+            "commit_sha": "f07dec25fe5a99f00ec9706ef7bb1125d0ed5150"
+        }
+    ]
+}

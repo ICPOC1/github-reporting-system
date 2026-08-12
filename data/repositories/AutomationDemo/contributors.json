@@ -1,0 +1,30 @@
+{
+    "repository": "PraharshaIncepteolabs/AutomationDemo",
+    "total": 3,
+    "contributors": [
+        {
+            "login": "PraharshaIncepteolabs",
+            "id": 314216920,
+            "contributions": 2,
+            "type": "User",
+            "profile_url": "https://github.com/PraharshaIncepteolabs",
+            "avatar_url": "https://avatars.githubusercontent.com/u/314216920?v=4"
+        },
+        {
+            "login": "Praharsha2005",
+            "id": 193572072,
+            "contributions": 1,
+            "type": "User",
+            "profile_url": "https://github.com/Praharsha2005",
+            "avatar_url": "https://avatars.githubusercontent.com/u/193572072?v=4"
+        },
+        {
+            "login": "pillamaripraharsha844-blip",
+            "id": 314271931,
+            "contributions": 1,
+            "type": "User",
+            "profile_url": "https://github.com/pillamaripraharsha844-blip",
+            "avatar_url": "https://avatars.githubusercontent.com/u/314271931?v=4"
+        }
+    ]
+}

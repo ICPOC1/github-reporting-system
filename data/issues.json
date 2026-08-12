@@ -1,0 +1,23 @@
+{
+    "repository": "PraharshaIncepteolabs/TEST",
+    "total": 1,
+    "issues": [
+        {
+            "number": 1,
+            "title": "Test GitHub Reporting Issue",
+            "state": "open",
+            "author": "PraharshaIncepteolabs",
+            "author_url": "https://github.com/PraharshaIncepteolabs",
+            "created_at": "2026-08-10T07:32:18Z",
+            "updated_at": "2026-08-11T07:52:29Z",
+            "closed_at": null,
+            "comments": 0,
+            "labels": [
+                "bug",
+                "documentation",
+                "enhancement"
+            ],
+            "url": "https://github.com/PraharshaIncepteolabs/TEST/issues/1"
+        }
+    ]
+}
