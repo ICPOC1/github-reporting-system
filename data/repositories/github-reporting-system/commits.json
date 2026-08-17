@@ -96,6 +96,346 @@
                     "changes": 0
                 }
             ]
+        },
+        {
+            "sha": "b01288cd27d3734816b82b4b27de5039c2eedff3",
+            "author": {
+                "name": "PraharshaIncepteolabs",
+                "email": "praharsha.p@incepteolabs.com"
+            },
+            "date": "2026-08-12T05:28:56Z",
+            "message": "Update GitHub Insights and Governance Platform",
+            "statistics": {
+                "additions": 9334,
+                "deletions": 491,
+                "total_changes": 9825
+            },
+            "files": [
+                {
+                    "filename": "app.py",
+                    "status": "modified",
+                    "additions": 765,
+                    "deletions": 468,
+                    "changes": 1233
+                },
+                {
+                    "filename": "assets/incepteo_labs_logo.png",
+                    "status": "added",
+                    "additions": 0,
+                    "deletions": 0,
+                    "changes": 0
+                },
+                {
+                    "filename": "dashboard.py",
+                    "status": "added",
+                    "additions": 6854,
+                    "deletions": 0,
+                    "changes": 6854
+                },
+                {
+                    "filename": "data/branches.json",
+                    "status": "added",
+                    "additions": 19,
+                    "deletions": 0,
+                    "changes": 19
+                },
+                {
+                    "filename": "data/collaborators.json",
+                    "status": "added",
+                    "additions": 42,
+                    "deletions": 0,
+                    "changes": 42
+                },
+                {
+                    "filename": "data/commits.json",
+                    "status": "modified",
+                    "additions": 23,
+                    "deletions": 23,
+                    "changes": 46
+                },
+                {
+                    "filename": "data/contributors.json",
+                    "status": "added",
+                    "additions": 30,
+                    "deletions": 0,
+                    "changes": 30
+                },
+                {
+                    "filename": "data/issues.json",
+                    "status": "added",
+                    "additions": 23,
+                    "deletions": 0,
+                    "changes": 23
+                },
+                {
+                    "filename": "data/pull_requests.json",
+                    "status": "added",
+                    "additions": 22,
+                    "deletions": 0,
+                    "changes": 22
+                },
+                {
+                    "filename": "data/repositories/AutomationDemo/branches.json",
+                    "status": "added",
+                    "additions": 13,
+                    "deletions": 0,
+                    "changes": 13
+                },
+                {
+                    "filename": "data/repositories/AutomationDemo/collaborators.json",
+                    "status": "added",
+                    "additions": 42,
+                    "deletions": 0,
+                    "changes": 42
+                },
+                {
+                    "filename": "data/repositories/AutomationDemo/commits.json",
+                    "status": "added",
+                    "additions": 96,
+                    "deletions": 0,
+                    "changes": 96
+                },
+                {
+                    "filename": "data/repositories/AutomationDemo/contributors.json",
+                    "status": "added",
+                    "additions": 30,
+                    "deletions": 0,
+                    "changes": 30
+                },
+                {
+                    "filename": "data/repositories/AutomationDemo/issues.json",
+                    "status": "added",
+                    "additions": 5,
+                    "deletions": 0,
+                    "changes": 5
+                },
+                {
+                    "filename": "data/repositories/AutomationDemo/pull_requests.json",
+                    "status": "added",
+                    "additions": 5,
+                    "deletions": 0,
+                    "changes": 5
+                },
+                {
+                    "filename": "data/repositories/AutomationDemo/repository.json",
+                    "status": "added",
+                    "additions": 23,
+                    "deletions": 0,
+                    "changes": 23
+                },
+                {
+                    "filename": "data/repositories/EmployeeManagement/branches.json",
+                    "status": "added",
+                    "additions": 13,
+                    "deletions": 0,
+                    "changes": 13
+                },
+                {
+                    "filename": "data/repositories/EmployeeManagement/collaborators.json",
+                    "status": "added",
+                    "additions": 42,
+                    "deletions": 0,
+                    "changes": 42
+                },
+                {
+                    "filename": "data/repositories/EmployeeManagement/commits.json",
+                    "status": "added",
+                    "additions": 96,
+                    "deletions": 0,
+                    "changes": 96
+                },
+                {
+                    "filename": "data/repositories/EmployeeManagement/contributors.json",
+                    "status": "added",
+                    "additions": 30,
+                    "deletions": 0,
+                    "changes": 30
+                },
+                {
+                    "filename": "data/repositories/EmployeeManagement/issues.json",
+                    "status": "added",
+                    "additions": 5,
+                    "deletions": 0,
+                    "changes": 5
+                },
+                {
+                    "filename": "data/repositories/EmployeeManagement/pull_requests.json",
+                    "status": "added",
+                    "additions": 5,
+                    "deletions": 0,
+                    "changes": 5
+                },
+                {
+                    "filename": "data/repositories/EmployeeManagement/repository.json",
+                    "status": "added",
+                    "additions": 23,
+                    "deletions": 0,
+                    "changes": 23
+                },
+                {
+                    "filename": "data/repositories/TEST/branches.json",
+                    "status": "added",
+                    "additions": 19,
+                    "deletions": 0,
+                    "changes": 19
+                },
+                {
+                    "filename": "data/repositories/TEST/collaborators.json",
+                    "status": "added",
+                    "additions": 42,
+                    "deletions": 0,
+                    "changes": 42
+                },
+                {
+                    "filename": "data/repositories/TEST/commits.json",
+                    "status": "added",
+                    "additions": 142,
+                    "deletions": 0,
+                    "changes": 142
+                },
+                {
+                    "filename": "data/repositories/TEST/contributors.json",
+                    "status": "added",
+                    "additions": 30,
+                    "deletions": 0,
+                    "changes": 30
+                },
+                {
+                    "filename": "data/repositories/TEST/issues.json",
+                    "status": "added",
+                    "additions": 23,
+                    "deletions": 0,
+                    "changes": 23
+                },
+                {
+                    "filename": "data/repositories/TEST/pull_requests.json",
+                    "status": "added",
+                    "additions": 22,
+                    "deletions": 0,
+                    "changes": 22
+                },
+                {
+                    "filename": "data/repositories/TEST/repository.json",
+                    "status": "added",
+                    "additions": 23,
+                    "deletions": 0,
+                    "changes": 23
+                },
+                {
+                    "filename": "data/repositories/github-reporting-system/branches.json",
+                    "status": "added",
+                    "additions": 13,
+                    "deletions": 0,
+                    "changes": 13
+                },
+                {
+                    "filename": "data/repositories/github-reporting-system/collaborators.json",
+                    "status": "added",
+                    "additions": 18,
+                    "deletions": 0,
+                    "changes": 18
+                },
+                {
+                    "filename": "data/repositories/github-reporting-system/commits.json",
+                    "status": "added",
+                    "additions": 101,
+                    "deletions": 0,
+                    "changes": 101
+                },
+                {
+                    "filename": "data/repositories/github-reporting-system/contributors.json",
+                    "status": "added",
+                    "additions": 14,
+                    "deletions": 0,
+                    "changes": 14
+                },
+                {
+                    "filename": "data/repositories/github-reporting-system/issues.json",
+                    "status": "added",
+                    "additions": 5,
+                    "deletions": 0,
+                    "changes": 5
+                },
+                {
+                    "filename": "data/repositories/github-reporting-system/pull_requests.json",
+                    "status": "added",
+                    "additions": 5,
+                    "deletions": 0,
+                    "changes": 5
+                },
+                {
+                    "filename": "data/repositories/github-reporting-system/repository.json",
+                    "status": "added",
+                    "additions": 23,
+                    "deletions": 0,
+                    "changes": 23
+                },
+                {
+                    "filename": "data/repository.json",
+                    "status": "added",
+                    "additions": 23,
+                    "deletions": 0,
+                    "changes": 23
+                },
+                {
+                    "filename": "data/repository_index.json",
+                    "status": "added",
+                    "additions": 82,
+                    "deletions": 0,
+                    "changes": 82
+                },
+                {
+                    "filename": "requirements.txt",
+                    "status": "modified",
+                    "additions": 0,
+                    "deletions": 0,
+                    "changes": 0
+                },
+                {
+                    "filename": "test_audit.py",
+                    "status": "added",
+                    "additions": 255,
+                    "deletions": 0,
+                    "changes": 255
+                },
+                {
+                    "filename": "user_report.py",
+                    "status": "added",
+                    "additions": 288,
+                    "deletions": 0,
+                    "changes": 288
+                }
+            ]
+        },
+        {
+            "sha": "2009e5372712c87f3febe47cc06840d5db85920b",
+            "author": {
+                "name": "PraharshaIncepteolabs",
+                "email": "praharsha.p@incepteolabs.com"
+            },
+            "date": "2026-08-17T03:51:09Z",
+            "message": "Update GitHub reporting application and dashboard",
+            "statistics": {
+                "additions": 2647,
+                "deletions": 4059,
+                "total_changes": 6706
+            },
+            "files": [
+                {
+                    "filename": "app.py",
+                    "status": "modified",
+                    "additions": 767,
+                    "deletions": 148,
+                    "changes": 915
+                },
+                {
+                    "filename": "dashboard.py",
+                    "status": "modified",
+                    "additions": 1880,
+                    "deletions": 3911,
+                    "changes": 5791
+                }
+            ]
         }
     ]
 }

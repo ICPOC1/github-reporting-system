@@ -1,5 +1,5 @@
 {
-    "repository": "PraharshaIncepteolabs/TEST",
+    "repository": "ICPOC1/TEST",
     "total": 1,
     "pull_requests": [
         {
@@ -14,7 +14,7 @@
             "updated_at": "2026-08-10T07:37:34Z",
             "closed_at": null,
             "merged_at": null,
-            "url": "https://github.com/PraharshaIncepteolabs/TEST/pull/2",
+            "url": "https://github.com/ICPOC1/TEST/pull/2",
             "head_branch": "phase3-test-pr",
             "base_branch": "main"
         }
