@@ -341,7 +341,7 @@ def _load_commit_rows(cur, repository_id=None):
 def _commit_payload(row):
     return {
         "sha": row["sha"],
-        "author": {"name": row.get("author_name") or row.get("author_login") or "Unknown", "email": row.get("author_email") or "Unknown"},
+        "author": {"name": row.get("author_name") or row.get("author_login") or "Unknown", "login": row.get("author_login") or "", "email": row.get("author_email") or "Unknown"},
         "date": row.get("commit_date"),
         "message": row.get("message") or "No commit message",
         "statistics": {"additions": row.get("additions", 0), "deletions": row.get("deletions", 0), "total_changes": row.get("total_changes", 0)},
@@ -449,12 +449,20 @@ def get_all_branches():
 
 def get_all_contributors():
     with get_connection() as cnx:
-        cur = cnx.cursor(dictionary=True); cur.execute("SELECT * FROM contributors ORDER BY repository_id, contributions DESC"); return cur.fetchall()
+        cur = cnx.cursor(dictionary=True); cur.execute("SELECT * FROM contributors ORDER BY repository_id, contributions DESC"); rows=cur.fetchall()
+        for row in rows:
+            row["id"] = row.pop("github_user_id"); row["type"] = row.pop("user_type")
+        return rows
 
 
 def get_all_collaborators():
     with get_connection() as cnx:
-        cur = cnx.cursor(dictionary=True); cur.execute("SELECT * FROM collaborators ORDER BY repository_id, login"); return cur.fetchall()
+        cur = cnx.cursor(dictionary=True); cur.execute("SELECT * FROM collaborators ORDER BY repository_id, login"); rows=cur.fetchall()
+        for row in rows:
+            row["id"] = row.pop("github_user_id"); row["type"] = row.pop("user_type")
+            row["push"] = bool(row.pop("push_permission")); row["pull"] = bool(row.pop("pull_permission"))
+            row["admin"] = bool(row["admin"]); row["maintain"] = bool(row["maintain"]); row["triage"] = bool(row["triage"])
+        return rows
 
 
 def get_all_projects():
